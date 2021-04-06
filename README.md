@@ -17,3 +17,6 @@
 **git config --global user.name - control who we are**</br>
 
 **https://git-scm.com/book/ru/v2 - more info on russian**
+
+**Закончить приложение калькулятор, добавить функционал**
+**Создать массив из 1000 простых чисел, вывести массив в консоль**
